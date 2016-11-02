@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:oc="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:minWidth="100dp"
+	android:layout_height="match_parent"
+	android:orientation="horizontal"
+
+	android:background="@drawable/golden_gate"
+	android:backgroundTintMode="src_atop"
+	>
+	<!--
+
+	<ImageView
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+
+		android:scaleType="center"
+	    android:src="@drawable/golden_gate"
+
+		android:paddingBottom="10dip"
+		/>
+		-->
+	<com.example.android.merge.OkCancelBar
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:layout_gravity="bottom"
+
+		android:paddingTop="8dip"
+	    android:gravity="center_horizontal"
+	    
+	    android:background="#AA000000"
+	    
+	    oc:okLabel="@string/ok"
+		oc:cancelLabel="@string/cancel"
+
+		/>
+
+
+</LinearLayout>

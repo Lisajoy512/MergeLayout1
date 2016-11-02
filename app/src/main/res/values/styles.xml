@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OkCancelBar" >
+        <item name="android:textSize">18pt</item>
+        <item name="android:textColor">#88FF88</item>/>
+        <item name="android:layout_height">80dp</item>
+    </style>
+    <style name="OkCancelBar.okLabel" >
+        <item name="android:textColor">#88FF00</item>
+    </style>
+    <style name="OkCancelBar.cancelLabel" >
+        <item name="android:textColor">#00FF88</item>
+    </style>
+
+</resources>

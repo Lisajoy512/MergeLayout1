@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/xingwx/projects/MergeLayout1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f69e52d940edee4cc078340d5dbab027b7d7b1c">
+        <dex dex="/home/xingwx/projects/MergeLayout1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2eeacec64e1ad5445bdabc8078c379c2d5dfde03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xingwx/projects/MergeLayout1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ce28b711814d88a8dcb70b51e4ee71b9c556dc">
+        <dex dex="/home/xingwx/projects/MergeLayout1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85674b8da3bf67507cb729f74347069db294de34/classes.dex" />
+    </item>
+
+</items>
